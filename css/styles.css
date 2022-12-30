@@ -134,7 +134,6 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 1440px 100%;
-    flex-grow: ;
 }
 .hero > .container {
     display: flex;
